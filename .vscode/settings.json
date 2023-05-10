@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mini_talk.h": "c",
+        "signal.h": "c"
+    }
+}
